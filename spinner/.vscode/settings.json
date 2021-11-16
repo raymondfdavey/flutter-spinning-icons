@@ -1,0 +1,11 @@
+{
+    "dart.flutterSdkPath": "/Users/rfd/CODING/SOFTWARE/flutter",
+    "dart.sdkPath": "/Users/rfd/CODING/SOFTWARE/flutter/bin/cache/dart-sdk",
+    "workbench.colorCustomizations": {
+        "titleBar.activeBackground": "#9e0c17",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#9e0c1799",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#9e0c17"
+}
